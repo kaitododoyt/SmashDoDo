@@ -1,0 +1,12 @@
+name: SmashDoDo
+main: KaitoDoDo\Smash\Smash
+author: KaitoDoDo
+version: 1.1.0
+api: [1.0.0, 2.0.0]
+commands:
+    smash:
+        usage: /smash <make>
+        description: SMASH-Commands
+    smstart:
+        usage: /swstart
+        description: SMASH-ForceStart
